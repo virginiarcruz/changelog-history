@@ -1,0 +1,9 @@
+{
+  "name": "level1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "beachball": "^1.29.0"
+  }
+}
