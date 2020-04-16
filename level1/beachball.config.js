@@ -1,3 +1,6 @@
 module.exports = {
-  path: "level1",
+  path: "trererer",
+  access: "public",
+  bumpDeps: false,
+  fetch: true
 }
