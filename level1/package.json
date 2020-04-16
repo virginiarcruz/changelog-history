@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "change": "beachball change",
+    "check": "beachball check",
+    "beachball:publish": "beachball publish"
+  },
   "devDependencies": {
     "beachball": "^1.29.0"
   }
